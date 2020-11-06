@@ -5,7 +5,7 @@ Make a video game in unity. Thinking about making a maze game where the player h
 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-Ryan Allen and Joe
+Ryan Allen and Joe Lynch
 
 
 ## Do you have any questions of your own?
