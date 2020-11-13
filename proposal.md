@@ -20,7 +20,7 @@ All of us are in lab section 7 with TA Joanne.
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
-Maze is non-randomize, but has a correct path that the player can follow to reach the end, and there will also be a victory screen when the player gets to the end
+Maze is non-randomized, but has a correct path that the player can follow to reach the end, and there will also be a victory screen when the player gets to the end
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 All of the elements from the good outcome with the addition of a time limit that the player has to reach the end of the maze within and have some sort of music playing in the background of the game.
