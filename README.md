@@ -23,4 +23,7 @@ that decreased by Time.deltatime, which allowed for many new features to be put 
 and the enemy switching horizontal and vertical movement after a certain amount of time. Coding in c# also got easier the more we worked on the project because
 we became more familar with how to use and where to implement the basic functions that are built into Unity that the Ruby tutorial teaches.
 
+The one thing we were not able to accomplish that was in our best case scenario was randomly generating the maze every time the player starts a new game. Instead,
+our maze is static and remains the same every time the game is played.
+
 All scripts used in our game have been put in the Game-Scripts branch.
