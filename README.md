@@ -1,6 +1,6 @@
 # CIS-1051-Final-Project
 
-Here is the link to our video: https://youtu.be/7NIyceRIRng
+Here is the link to our video: https://www.youtube.com/watch?v=ddvLzMk3_Io
 
 Our original idea for a final project was a simple maze game made in Unity where the player had to make choices about which path to take and would be met with different outcomes
 depending on the path taken. However, as we got into using Unity it seemed like the easiest type of game to make would be a topdown 2D game.
