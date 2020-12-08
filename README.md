@@ -8,7 +8,7 @@ depending on the path taken. However, as we got into using Unity it seemed like 
 We maintained our original idea by making the game a topdown maze game where the player plays as Link and has to reach the end of a maze filled with enemies to 
 save princess Zelda. Our finished project is based on the Unity "Ruby 2D Beginner Tutorial," which gives the bare essentials needed to make a topdown 2D game. 
 We used the scripts created in the Ruby tutorial to develop our own scripts with many unique changes. One of the first and most minor changes we made was simply
-using Input.GetAxisRaw instead of Input.GetAxis to disable motion smoothing. A more significant change we made was adding code to make both link and enemies turn red when
+using Input.GetAxisRaw instead of Input.GetAxis to disable motion smoothing. A more significant change we made was adding code to make both Link and enemies turn red when
 damaged, and we also added code to respawn Link in his original position with full health if his health bar every reaches zero. We also edited the Launch function
 taught by Ruby to make four unique Launch functions that fire arrows facing different directions based on the direction that Link is facing. 
 
