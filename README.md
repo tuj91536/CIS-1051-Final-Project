@@ -22,3 +22,5 @@ Working with the preliminary scripts from the Ruby tutorial gave us a good idea 
 that decreased by Time.deltatime, which allowed for many new features to be put into our game like the enemy fireball disappearing after a certain amount of time
 and the enemy switching horizontal and vertical movement after a certain amount of time. Coding in c# also got easier the more we worked on the project because
 we became more familar with how to use and where to implement the basic functions that are built into Unity that the Ruby tutorial teaches.
+
+All scripts used in our game have been put in the Game-Scripts branch.
