@@ -10,7 +10,8 @@ save princess Zelda. Our finished project is based on the Unity "Ruby 2D Beginne
 We used the scripts created in the Ruby tutorial to develop our own scripts with many unique changes. One of the first and most minor changes we made was simply
 using Input.GetAxisRaw instead of Input.GetAxis to disable motion smoothing. A more significant change we made was adding code to make both Link and enemies turn red when
 damaged, and we also added code to respawn Link in his original position with full health if his health bar ever reaches zero. We also edited the Launch function
-taught by Ruby to make four unique Launch functions that fire arrows facing different directions based on the direction that Link is facing. 
+taught by Ruby to make four unique Launch functions that fire arrows facing different directions based on the direction that Link is facing. We also added a timer
+so that the player has to wait briefly after firing an arrow before they are able to fire another.
 
 We also made changes to the enemy script created in the Ruby tutorial. The first change we made was adding a public health variable so that enemies could be given
 different health values easily. We also added code to create more advanced enemies that automatically switch whether they are moving horizontally or vertically
